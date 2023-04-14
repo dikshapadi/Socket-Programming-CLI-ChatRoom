@@ -6,11 +6,11 @@ It supports chatting among multiple clients.
 1. Clone this repository
 2. Move to the concerned directory
 3. To run the server application, use this command in the terminal :
-  ```sh
+  	```sh
 	python server.py
 	```
 4. Now, open another terminal and use this command to run the client application :
-  ```sh
+	```sh
 	python client.py
 	```
 For opening multiple client applications, repeat step 4.
